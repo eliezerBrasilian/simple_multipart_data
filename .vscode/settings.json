@@ -1,0 +1,4 @@
+{
+  "java.project.referencedLibraries": ["cryxie_libs/**/*.jar"],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
